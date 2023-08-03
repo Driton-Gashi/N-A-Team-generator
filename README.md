@@ -1,2 +1,1 @@
-"# N-A-Team-generator" 
-"# N-A-Team-generator" 
+Random Team Generator Application for the https://naruto-arena.net/ game
